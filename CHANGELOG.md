@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.1 (13 November 2026)
+
+- How-to guide for every tool: tap **?** in a tool's title bar, or open **How to use Fieldrig** on Home. Also in [docs/TUTORIAL.md](docs/TUTORIAL.md).
+- A new install follows the phone's light or dark theme, and asks for location after you sign in.
+
 ## 0.3.0 (13 November 2026)
 
 First public release.

@@ -42,6 +42,10 @@ This loads a made-up open-pit prospect near Citatah, West Java, with at least tw
 
 Every calculator also has two worked examples: tap **Example 1** or **Example 2** at the top. **Remove demo data** takes out only the demo records and leaves your own work alone.
 
+## How to use
+
+Every tool has a **?** button in its title bar with step-by-step instructions, and Home has **How to use Fieldrig**, a handbook of all of them. The same guide is here: **[docs/TUTORIAL.md](docs/TUTORIAL.md)**.
+
 ## What's in it
 
 ### Survey
