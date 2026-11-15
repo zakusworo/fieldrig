@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.3 (16 November 2026)
+
+- New look for Home: a warm header with the date, time and your name, and every tool on a rounded tile with its own icon, so tools are easier to find at a glance.
+- Rounder buttons and panels across the app; tool screens keep the dark title bar and ruler.
+- New app icon: bolder hammer and pick over the open pit.
+- Nothing changes in your data: install over 0.3.2 and everything stays.
+
 ## 0.3.2 (16 November 2026)
 
 - Under the hood: Fieldrig is now built on a shared core with two sister apps (oil and gas, renewable energy), so fixes to the map, camera, tracks, checklists and calculators reach all of them.
