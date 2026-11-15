@@ -192,7 +192,7 @@ Field calculators grouped by discipline.
 3. Read the formula and assumptions under the result before relying on the number.
 - Choices such as the array type or units are the chips above the input fields.
 
-## P2H pre-start {#P2H}
+## P2H pre-start
 Daily pre-start inspection of a unit (P2H).
 1. Tap **New P2H check**. Choose the unit type, then enter the unit number, hour meter, operator, supervisor and shift.
 2. Answer every item **OK**, **Defect** or **N/A**. For a defect, write what is wrong.

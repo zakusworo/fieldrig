@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.2 (16 November 2026)
+
+- Under the hood: Fieldrig is now built on a shared core with two sister apps (oil and gas, renewable energy), so fixes to the map, camera, tracks, checklists and calculators reach all of them.
+- P2H shows what to do when there are no checks yet; clearer theme hint in Settings.
+- Nothing changes in your data: install over 0.3.1 and everything stays.
+
 ## 0.3.1 (13 November 2026)
 
 - How-to guide for every tool: tap **?** in a tool's title bar, or open **How to use Fieldrig** on Home. Also in [docs/TUTORIAL.md](docs/TUTORIAL.md).
